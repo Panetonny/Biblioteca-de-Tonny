@@ -1,0 +1,24 @@
+.section.-books{
+    background-color: white;
+    padding: 0px 20px;
+    padding-top: 10px;
+}
+
+.section.-books .catalogo{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1322.4px;
+}
+
+.section.-books .catalogo .books-comp{
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.section.-books .catalogo .books-comp:nth-child(6n){
+    margin-right: 0;
+}
+
+.section.-books .catalogo .books-comp:last-child{
+    margin-right: 0;
+}
