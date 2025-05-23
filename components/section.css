@@ -10,15 +10,15 @@
     width: 1322.4px;
 }
 
-.section.-books .catalogo .books-comp{
+.section.-books .catalogo .action-book{
     margin-right: 15px;
     margin-bottom: 10px;
 }
 
-.section.-books .catalogo .books-comp:nth-child(6n){
+.section.-books .catalogo .action-book:nth-child(6n){
     margin-right: 0;
 }
 
-.section.-books .catalogo .books-comp:last-child{
+.section.-books .catalogo .action-book:last-child{
     margin-right: 0;
 }

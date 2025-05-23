@@ -1,5 +1,6 @@
 .books-comp{
     text-align: center;
+    color: black;
     transition: all 1s;
 }
 .books-comp .icon{
