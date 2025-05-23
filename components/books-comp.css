@@ -1,13 +1,14 @@
 .books-comp{
     text-align: center;
     color: black;
-    transition: all 1s;
+    transition: all 0.5s;
+    width: 207.9px;  
 }
+
 .books-comp .icon{
     box-sizing: border-box;
     height: 330.75px;
     width: 207.9px;  
- 
 }
 
 .books-comp:hover{
